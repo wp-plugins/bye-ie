@@ -1,0 +1,12 @@
+/** IE 6 FIX **/
+html,body { width: 100%; height: 100%; overflow:hidden;}
+
+/** FULL SCREEN SIZE BACKGROUND OVERLYING WEBSITE **/
+#simpleecode-bye-ie { width: 100%; height: 100%; background-color: rgb(170, 170, 170); position: fixed !important; position: absolute; top: 0; left: 0; z-index: 99999; }
+
+/** CONTENT | MODIFY BELOW **/
+#simpleecode-bye-ie .content { width: 600px; height: auto; padding: 20px;  margin: 100px auto; background: #fff; box-shadow: 0px 0px 20px #000; position: relative; border-radius: 8px; }
+#simpleecode-bye-ie h1 { font-size: 24px; font-weight: bold; color: #e30000 }
+#simpleecode-bye-ie h2 { font-size: 18px; font-weight: bold; color: #0072ff; }
+#simpleecode-bye-ie a { color: #2b4661; text-decoration: underline; }
+#simpleecode-bye-ie #plugin { font-size: 12px; float: right; text-decoration: none; color: green}
