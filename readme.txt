@@ -1,5 +1,5 @@
 === Bye IE ===
-Contributors: tomlis20
+Contributors: Simplee Code
 Tags: bye, internet explorer, block, ie, stop
 Requires at least: 2.0.2
 Tested up to: 3.4.1
