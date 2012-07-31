@@ -1,12 +1,9 @@
 === Bye IE ===
 Contributors: Simplee Code
-Tags: bye, internet explorer, block, ie, stop
+Tags: bye, internet explorer, block, ie, stop, simplee code
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: trunk
-Plugin URI: http://simpleecode.com/wordpress-plugin-bye-ie/
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Plugin allows you to disable access to your website in chosen Internet Explorer versions.
 

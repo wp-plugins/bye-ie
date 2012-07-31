@@ -7,6 +7,7 @@
  * Author URI: http://www.simpleecode.com/
  * Description: Plugin allows you to disable access to your website in chosen Internet Explorer versions. It shows nice pop up encouraging to upgrade or change current browser to get better performance while surfing the Internet. Template is easily configurable if someone doesn't like the default one :)
  * License: GPL2
+ * Version: 1.0
 **/
 
 /*  Copyright 2012 Simplee Code (email : info@simpleecode.com)
